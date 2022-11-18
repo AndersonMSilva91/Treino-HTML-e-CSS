@@ -1,1 +1,8 @@
-document.querySelector('#img').style.transform = scale(1.1)
+
+function handleTitle(){
+document.querySelector('#titulo').innerHTML = "GAROTO!!!!!! so atire quando eu disser pra atirar"
+}
+function handleBack(){
+document.querySelector('#titulo').innerHTML = "God Of War Ragnarok"
+}
+
